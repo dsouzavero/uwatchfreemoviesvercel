@@ -436,7 +436,7 @@ fetch("/movies.json")
 //           },
 //           "publisher": {
 //             "@type": "Organization",
-//             "name": "Uwatchfree Movies?",
+//             "name": "Uwatchfree?",
 //             "logo": {
 //               "@type": "ImageObject",
 //               "url": "https://uwatchfreemovies.vercel.app/og_image.jpg"
