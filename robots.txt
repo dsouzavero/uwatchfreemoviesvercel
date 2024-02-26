@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://watch-free-movie.netlify.app/sitemap.xml
